@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-materialdashboardrea-dev-145213-authRole",
+            "UnauthRoleArn": "arn:aws:iam::489942358858:role/amplify-materialdashboardrea-dev-145213-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::489942358858:role/amplify-materialdashboardrea-dev-145213-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-materialdashboardrea-dev-145213-deployment",
+            "UnauthRoleName": "amplify-materialdashboardrea-dev-145213-unauthRole",
+            "StackName": "amplify-materialdashboardrea-dev-145213",
+            "StackId": "arn:aws:cloudformation:us-east-2:489942358858:stack/amplify-materialdashboardrea-dev-145213/d416dfe0-d56a-11ea-aaa0-0a1d079b09e4",
+            "AmplifyAppId": "d21btwnjj87iyg"
+        }
+    }
+}
